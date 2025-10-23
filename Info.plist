@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>MyRainApp</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.example.MyRainApp</string>
+    <key>CFBundleName</key>
+    <string>MyRainApp</string>
+    <key>CFBundleVersion</key>
+    <string>1.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    
+    <!-- ADDED THIS KEY -->
+    <key>CFBundleIconFile</key>
+    <string>AppIcon.icns</string>
+    
+    <key>LSMinimumSystemVersion</key>
+    <string>10.15</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSMainNibFile</key>
+    <string></string>
+</dict>
+</plist>
